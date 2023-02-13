@@ -48,7 +48,7 @@ function Node() {
         <div className="wrapper">
             {[...node_list].map(([key, value]) => <div
                 className={`node ${value.isActive ? 'node-active' : 'node-inactive'}`}
-                onClick={() => (activateNode(key))}
+                onMouseDown={() => (activateNode(key))}
                 key={key}
                 style={{gridColumn: value.x, gridRow: value.y}}
                 contentEditable={true} suppressContentEditableWarning={true}
