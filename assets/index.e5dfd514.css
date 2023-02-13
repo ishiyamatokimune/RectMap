@@ -1,0 +1,1 @@
+.wrapper{display:grid;grid-template-columns:repeat(10,120px);grid-template-rows:repeat(10,60px);gap:10px}.node{background:white;cursor:pointer;display:flex;align-items:center;justify-content:center}.node-active{box-shadow:0 2px 5px #00000042}.node-inactive{background:#f0f0f0;color:#a0a0a0;box-shadow:0 1px 1px #00000042}
