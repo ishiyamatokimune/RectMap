@@ -1,0 +1,37 @@
+
+
+/*.wrapper {*/
+/*    display: grid;*/
+/*    grid-template-columns: repeat(3, 1fr);*/
+/*    gap: 10px;*/
+/*    grid-auto-rows: minmax(100px, auto);*/
+/*}*/
+
+/*.one {*/
+/*    grid-column: 1;*/
+/*    grid-row: 1;*/
+/*    background: #fff;*/
+/*    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .5);*/
+/*}*/
+
+/*.two {*/
+/*    grid-column: 2;*/
+/*    grid-row: 1;*/
+/*    background: #fff;*/
+/*    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .5);*/
+/*}*/
+
+/*.three {*/
+/*    grid-column: 1;*/
+/*    grid-row: 2;*/
+/*    background: #fff;*/
+/*    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .5);*/
+/*}*/
+
+/*.four {*/
+/*    grid-column: 2;*/
+/*    grid-row: 2;*/
+/*    background: #fff;*/
+/*    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .5);*/
+/*}*/
+
